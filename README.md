@@ -1,8 +1,11 @@
+
+<img width="1195" alt="Screenshot 2025-02-09 at 15 57 33" src="https://github.com/user-attachments/assets/28095bdf-6ad6-4cda-a168-1c5faa605474" />
+
 ## Navbar Project - React Fundamental Project 11
 
 This project demonstrates how to create a responsive navigation bar using React and Vite. The navigation bar includes links and social icons, which are dynamically rendered based on the component's state.
 
-**Online Live:**
+**Online Live:** https://navbar-arnob.netlify.app/
 
 ## Project Details and Steps
 
